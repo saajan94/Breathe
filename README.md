@@ -1,6 +1,6 @@
 # Breathe
 
-saajan94.github.io/breathe/
+https://saajan94.github.io/breathe/
 
 Breathe is an application that uses vanilla JavaScript to give a visual breathing aid for meditation or everyday life.
 
