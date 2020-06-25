@@ -29,13 +29,14 @@ body {
 
 .gradient-circle {
   background: conic-gradient(
-    #55b7a4 0%,
-    #4ca493 40%,
+    #5598b7 0%,
+    #4c8fa4 40%,
     #fff 40%,
     #fff 60%,
-    #336d62 60%,
-    #2a5b52 100%
+    #33536d 60%,
+    #2a415b 100%
   );
+  opacity: 0.8;
   height: 320px;
   width: 320px;
   position: absolute;
